@@ -17,6 +17,8 @@ After seeing many great features being released on Akash such as GPUs, easy-to-u
 > 3x contributors @ $1000/contributor/month
 > 
 > Marketing budget @ $5000/month
+>
+> The possibility of collaborating with other proposals such as the Community Activies Proposal to create bounties where it makes sense for the two proposals
 
 The contributors for the first proposal are: Rodri (technical role and responsible for financials), PiberDev (program lead and technical role), and Robert (non-technical role and social advisor). All of these contributors have attended events representing Akash in the past, and all of these contributors are also long-term Insiders/Vanguards.
 
