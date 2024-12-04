@@ -30,7 +30,7 @@ For a detailed breakdown of the resources required related to funding, please re
 >
 > The possibility of collaborating with other proposals and teams. While this is only required for the experimental tasks, we are hoping for experimental tasks to become reoccuring tasks.
 
-The contributors for the first proposal are: Rodri (technical role and responsible for financials), PiberDev (program lead and technical role), and Robert (non-technical role and social advisor). All of these contributors have attended events representing Akash in the past, and all of these contributors are also long-term Insiders/Vanguards.
+The contributors for the first proposal are: Rodri (technical role and responsible for financials), PiberDev (program lead and technical role), and Robert (non-technical role and social media advisor). All of these contributors have attended events representing Akash in the past, and all of these contributors are also long-term Insiders/Vanguards.
 
 As detailed in the budget breakdown, tasks are broken down into hours and frequency. For now the full contributor pay (~$4800 USD) will be divided equally across the 3 contributors but as this program scales it will divided depending on how much work each contributor works. Work 5 hours, get 5 hours of pay. Work 20 hours, get 20 hours of pay. Not everyone has the same skillsets or availability and this is crucial when the program scales in the future.
 
