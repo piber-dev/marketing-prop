@@ -1,4 +1,4 @@
-# Akash Community Marketing Team Proposal
+# Akash Community Marketing/Support Team Proposal
 
 ## Introduction
 
